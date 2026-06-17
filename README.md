@@ -20,4 +20,4 @@ This project implements a Sequence Detector using a Finite State Machine (FSM). 
 
 ## Author
 Manasa mytri
-![Seqdec_waveform](secdec_waveform.png)
+![SEQDEC_Waveform](secdec_waveform.png)
